@@ -24,5 +24,6 @@ Para navegar en los modulos simplemente abre cada archivo HTML anexado en el rep
 
 >[!WARNING]
  Este proyecto solo contiene código HTML y CSS
-Este proyecto es de uso interno para usarios e afiliados del ingreso solidario 
+Este proyecto es de uso interno para usarios e afiliados del ingreso solidario
+
 📌 Proyecto desarrollado con base en los lineamientos del equipo de UI/UX de.
